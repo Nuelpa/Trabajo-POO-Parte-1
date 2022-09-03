@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio18 {
+public class Cap3_Ejercicio18 {
     public static void main(String[] args) {
         empleado elempleado = new empleado();    
         Scanner entrada = new Scanner(System.in);

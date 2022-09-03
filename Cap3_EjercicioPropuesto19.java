@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cap3_Ejercicio19 {
+public class Cap3_EjercicioPropuesto19 {
     public static void main(String[] args) {
         
         triangulo mitriangulo = new triangulo();

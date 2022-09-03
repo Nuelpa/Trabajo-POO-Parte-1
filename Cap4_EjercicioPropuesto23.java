@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class EjercicioPropuesto23 {
+public class Cap4_EjercicioPropuesto23 {
     public static void main(String[] args) {
         
         Scanner entrada = new Scanner(System.in);
